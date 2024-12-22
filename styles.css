@@ -46,9 +46,14 @@ body {
     margin-left: 20px;
 }
 
+.title:active {
+    color: hsl(47, 88%, 63%);
+}
+
 .text {
     margin-left: 20px;
-    color: hsl(0, 0%, 42%)
+    color: hsl(0, 0%, 42%);
+    line-height: 25px;
 }
 
 .row {
